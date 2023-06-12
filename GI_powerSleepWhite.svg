@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 -960 960 960"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="GI_powerSleepWhite.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.729167"
+     inkscape:cx="24"
+     inkscape:cy="23.970112"
+     inkscape:window-width="1914"
+     inkscape:window-height="1074"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M524-40q-84 0-157.5-32t-128-86.5Q184-213 152-286.5T120-444q0-146 93-257.5T450-840q-18 98 11 192.5T561-482q71 71 165.5 100.5T920-370q-26 144-138 237T524-40Z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.0597758"
+     d="M 24.777086,45.926549 C 20.650119,45.616861 16.839823,44.101907 13.50934,41.446555 12.669547,40.776999 11.204455,39.312837 10.526642,38.465753 8.9312681,36.471963 7.5782514,33.929882 6.8837617,31.62142 5.777316,27.943628 5.754573,23.778975 6.8208352,20.09845 7.4389485,17.964846 8.5784733,15.705794 9.9734495,13.848545 12.528544,10.446732 15.781949,8.0735626 19.696139,6.7564095 c 0.528262,-0.1777638 2.104474,-0.5971007 2.562038,-0.6816069 0.199304,-0.036809 0.200614,-0.035568 0.165725,0.1569991 -0.198128,1.0935495 -0.245311,1.7709695 -0.244586,3.5116603 8.07e-4,1.935181 0.04422,2.419458 0.356413,3.975463 0.973968,4.854418 3.715862,9.137341 7.822045,12.218278 4.129315,3.098293 9.659535,4.483896 14.832761,3.716366 0.394521,-0.05853 0.729,-0.09652 0.743288,-0.08441 0.04623,0.03918 -0.287949,1.461858 -0.538221,2.291359 -0.7371,2.443041 -1.874089,4.599638 -3.482375,6.60523 -0.263638,0.328768 -0.898355,1.015946 -1.410481,1.527063 -3.55505,3.548046 -7.737962,5.503931 -12.647204,5.913699 -0.663671,0.0554 -2.452122,0.06704 -3.078456,0.02003 z"
+     id="path860"
+     transform="matrix(20,0,0,20,0,-960)" />
+</svg>
