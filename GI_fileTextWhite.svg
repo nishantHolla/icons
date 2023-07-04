@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 -960 960 960"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="GI_fileFileWhite.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="18.145833"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1906"
+     inkscape:window-height="1066"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M319-250h322v-60H319v60Zm0-170h322v-60H319v60ZM220-80q-24 0-42-18t-18-42v-680q0-24 18-42t42-18h361l219 219v521q0 24-18 42t-42 18H220Zm331-554v-186H220v680h520v-494H551ZM220-820v186-186 680-680Z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.0551091"
+     d="m 10.099933,43.820272 c -0.9572274,-0.326225 -1.795785,-1.2591 -2.0005927,-2.22561 -0.1189098,-0.561148 -0.1189098,-34.6281757 0,-35.1893242 0.2078536,-0.9808839 1.0917311,-1.9474803 2.0520477,-2.244092 0.353028,-0.1090391 0.499933,-0.1107292 9.6249,-0.1107292 h 9.2664 l 5.469471,5.4696789 5.469471,5.4696785 -9.59e-4,13.115855 c -8.15e-4,11.179858 -0.01263,13.170924 -0.08001,13.488933 -0.209139,0.986953 -1.087621,1.946211 -2.056336,2.245417 -0.349306,0.107889 -0.541298,0.109385 -13.863906,0.107981 L 10.470727,43.94666 Z M 37.005741,28.656716 V 16.28473 H 32.293915 27.58209 V 11.628014 6.9712974 H 19.288175 10.994259 V 24 41.028703 H 24 37.005741 Z"
+     id="path306"
+     transform="matrix(20,0,0,20,0,-960)" />
+  <path
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.0551091"
+     d="M 15.954076,25.487945 V 24 H 24 32.045924 v 1.487945 1.487945 H 24 15.954076 Z"
+     id="path308"
+     transform="matrix(20,0,0,20,0,-960)" />
+  <path
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.0551091"
+     d="m 15.954076,34.002296 v -1.46039 H 24 32.045924 v 1.46039 1.460391 H 24 15.954076 Z"
+     id="path310"
+     transform="matrix(20,0,0,20,0,-960)" />
+</svg>

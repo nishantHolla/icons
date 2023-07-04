@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 -960 960 960"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="GI_fileDirectoryWhite.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="18.145833"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1906"
+     inkscape:window-height="1066"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M140-160q-24 0-42-18.5T80-220v-520q0-23 18-41.5t42-18.5h281l60 60h339q23 0 41.5 18.5T880-680v460q0 23-18.5 41.5T820-160H140Zm0-60h680v-460H456l-60-60H140v520Zm0 0v-520 520Z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.0551091"
+     d="M 6.4477612,39.917475 C 5.4566388,39.73105 4.4455594,38.771539 4.1384365,37.725933 4.059009,37.455521 4.0505166,36.129702 4.0505166,24 c 0,-12.129702 0.00849,-13.455521 0.08792,-13.725933 C 4.2859877,9.7717258 4.5528994,9.3372742 4.9713159,8.9183907 5.4202975,8.4689081 5.9505898,8.17711 6.4992143,8.0776507 6.7215329,8.0373469 9.0998031,8.0183697 13.928446,8.0183697 h 7.102234 l 1.510722,1.5017221 1.510723,1.5017222 8.809339,0.02756 8.809338,0.02755 0.488609,0.242124 c 0.67552,0.334746 1.185655,0.844884 1.520394,1.520404 l 0.242124,0.488619 0.0146,12.045494 c 0.01439,11.869319 0.013,12.050767 -0.09454,12.405992 -0.298539,0.986121 -1.375491,1.963337 -2.36616,2.147032 -0.392679,0.07281 -34.6398839,0.0639 -35.0280698,-0.0091 z M 41.028703,25.487945 V 13.970149 H 31.921546 22.81439 L 21.32721,12.482204 19.840031,10.994259 H 13.405664 6.9712974 V 24 37.005741 H 24 41.028703 Z"
+     id="path252"
+     transform="matrix(20,0,0,20,0,-960)" />
+</svg>

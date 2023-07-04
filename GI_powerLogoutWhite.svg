@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 -960 960 960"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="GI_powerLogoutWhite.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="18.145833"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1906"
+     inkscape:window-height="1066"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M180-120q-24 0-42-18t-18-42v-600q0-24 18-42t42-18h291v60H180v600h291v60H180Zm486-185-43-43 102-102H375v-60h348L621-612l43-43 176 176-174 174Z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.0551091"
+     d="M 8.309043,41.880742 C 7.5428655,41.674381 6.67768,40.976907 6.3517546,40.302863 6.0109109,39.597967 6.0344432,40.807009 6.0344432,24 6.0344432,7.194568 6.0109509,8.4027998 6.3514279,7.6971366 6.5536032,7.2781137 7.2781137,6.5536032 7.6971366,6.3514279 8.3872873,6.0184356 7.964165,6.0344432 16.075872,6.0344432 h 7.428146 V 7.4948335 8.9552239 H 16.229621 8.9552239 V 24 39.044776 h 7.2743971 7.274397 v 1.46039 1.460391 l -7.453501,-0.0036 c -6.225861,-0.003 -7.500933,-0.0164 -7.741474,-0.08119 z"
+     id="path368"
+     transform="matrix(20,0,0,20,0,-960)" />
+  <path
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:0.0551091"
+     d="M 32.238895,31.66025 31.1925,30.612767 33.754466,28.050356 36.316433,25.487945 H 27.540536 18.764638 V 24 22.512055 h 8.720789 8.720788 l -2.562149,-2.562593 -2.562149,-2.562594 1.047026,-1.047026 1.047026,-1.047026 4.38093,4.38119 4.38093,4.381189 -4.32627,4.326269 -4.326269,4.326269 z"
+     id="path370"
+     transform="matrix(20,0,0,20,0,-960)" />
+</svg>
